@@ -1,0 +1,2 @@
+# hasher
+hash a string!
